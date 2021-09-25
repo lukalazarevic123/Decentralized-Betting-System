@@ -2,6 +2,8 @@
 Frontend of the project done in React. <br>
 This project is powered by Solidity Smart Contracts.
 
+### Once you deploy the contracts you are considered to be the administrator of the platform
+
 # Requirements
 
 You will need node package manager on your computer and Metamask plugin on your browser
